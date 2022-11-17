@@ -1,93 +1,44 @@
-module.exports =[
-    {
-      "_id": "6375b0643cbabc7948c937c6",
-      "age": 38,
-      "eyeColor": "blue",
-      "name": "Lora Alvarado",
-      "gender": "female",
-      "email": "loraalvarado@dadabase.com",
-      "address": "181 Newkirk Placez, Statenville, Rhode Island, 752",
-      "about": "Elit non et consectetur sint laborum nulla eiusmod in Lorem exercitation consequat qui. Consectetur Lorem ut duis tempor minim deserunt tempor veniam elit sit ad. Sint anim do officia excepteur aute mollit nulla deserunt et esse nulla. Ipsum aliqua non pariatur commodo pariatur aute laboris qui aliquip ea. Irure voluptate deserunt mollit fugiat duis minim mollit culpa deserunt sunt ut dolor.\r\n",
-      "registered": "2022-03-01T04:36:35 -06:-30",
-      "latitude": 69.145545,
-      "longitude": -103.958252
-    },
-    {
-      "_id": "6375b064537c7e3b10d6ffc5",
-      "age": 32,
-      "eyeColor": "blue",
-      "name": "Crystal Love",
-      "gender": "female",
-      "email": "crystallove@dadabase.com",
-      "address": "707 Evergreen Avenue, Glenshaw, Northern Mariana Islands, 783",
-      "about": "Adipisicing est dolore exercitation laborum eu amet aliquip elit et officia consectetur ad quis dolore. Dolor veniam sunt pariatur proident sit anim labore excepteur. Ut esse dolor sunt anim id fugiat. Laborum sunt aliquip minim do tempor.\r\n",
-      "registered": "2016-12-05T10:06:48 -06:-30",
-      "latitude": -76.467937,
-      "longitude": -48.181208
-    },
-    {
-      "_id": "6375b06457a812f02eab52ad",
-      "age": 20,
-      "eyeColor": "blue",
-      "name": "Hodges Bush",
-      "gender": "male",
-      "email": "hodgesbush@dadabase.com",
-      "address": "732 Court Street, Gardners, Vermont, 5634",
-      "about": "Nisi enim exercitation Lorem ut elit ipsum ex. Lorem qui qui ullamco minim labore cupidatat sunt proident nisi ad. Aliquip proident aliquip veniam nisi in eu excepteur do veniam do eiusmod. Irure dolor irure dolore exercitation ipsum occaecat deserunt aliquip esse anim. Aute consequat occaecat ipsum do cupidatat ea culpa dolor fugiat pariatur eiusmod.\r\n",
-      "registered": "2015-07-26T12:08:42 -06:-30",
-      "latitude": 3.382419,
-      "longitude": -121.192046
-    },
-    {
-      "_id": "6375b064d5eee2df1a0d655e",
-      "age": 32,
-      "eyeColor": "brown",
-      "name": "Mckay Horne",
-      "gender": "male",
-      "email": "mckayhorne@dadabase.com",
-      "address": "124 Broadway , Fedora, Illinois, 2180",
-      "about": "Laborum laboris incididunt ad ullamco non occaecat culpa officia dolor consectetur. Velit anim minim esse dolore amet consequat laborum amet sint in ipsum enim laborum pariatur. Minim tempor in veniam minim est cupidatat amet pariatur voluptate.\r\n",
-      "registered": "2021-10-14T10:24:28 -06:-30",
-      "latitude": -70.109935,
-      "longitude": 177.879388
-    },
-    {
-      "_id": "6375b0649420162c96dc5e59",
-      "age": 21,
-      "eyeColor": "brown",
-      "name": "Sonya Mercer",
-      "gender": "female",
-      "email": "sonyamercer@dadabase.com",
-      "address": "181 Livingston Street, Mayfair, Alaska, 8169",
-      "about": "Pariatur labore magna sit magna eu minim fugiat. Eu dolor fugiat pariatur laboris aute labore tempor irure quis culpa adipisicing ullamco veniam eiusmod. Voluptate nisi officia sit sunt adipisicing eiusmod ad consectetur in in. Voluptate sint proident quis irure dolor ad consequat magna dolore occaecat eu ullamco enim. Consectetur et fugiat esse ea nostrud ullamco est.\r\n",
-      "registered": "2018-07-08T07:34:28 -06:-30",
-      "latitude": 9.616842,
-      "longitude": 55.203634
-    },
-    {
-      "_id": "6375b0647d99cb124885ecf2",
-      "age": 28,
-      "eyeColor": "green",
-      "name": "Walsh Weaver",
-      "gender": "male",
-      "email": "walshweaver@dadabase.com",
-      "address": "783 Imlay Street, Martinez, Connecticut, 3675",
-      "about": "Ex consequat dolor ipsum fugiat qui cupidatat adipisicing magna duis nulla. Quis et voluptate officia deserunt aliquip. Esse nostrud anim nisi enim magna ut Lorem proident occaecat officia et consequat deserunt culpa. Duis eiusmod ex labore magna occaecat irure culpa est minim mollit aliquip voluptate elit duis. Pariatur ullamco incididunt tempor ad exercitation aliquip nisi laborum irure incididunt nisi. Pariatur commodo ullamco velit Lorem in incididunt et elit cillum. Officia incididunt consectetur minim aliquip laboris.\r\n",
-      "registered": "2019-08-14T10:38:28 -06:-30",
-      "latitude": -20.198552,
-      "longitude": 42.128411
-    },
-    {
-      "_id": "6375b0648c2c9d3859232d8e",
-      "age": 30,
-      "eyeColor": "green",
-      "name": "Cheri Branch",
-      "gender": "female",
-      "email": "cheribranch@dadabase.com",
-      "address": "307 Hopkins Street, Hackneyville, Wisconsin, 5203",
-      "about": "Nostrud veniam id laboris culpa id. Reprehenderit pariatur eiusmod laboris voluptate nostrud magna adipisicing irure ea est ex ullamco nisi. Anim ut deserunt aliqua est tempor dolor enim sint. Laboris culpa amet non commodo eiusmod nostrud labore. Esse ipsum aliquip nisi pariatur laboris. Culpa qui esse et voluptate et.\r\n",
-      "registered": "2017-08-16T02:39:29 -06:-30",
-      "latitude": -53.428553,
-      "longitude": -36.766514
-    }
-  ]
+module.exports=[
+  {
+    "_id": "6375bc46644170d8a2f006b5",
+    "age": 24,
+    "price": 447,
+    "product": 365,
+    "name": "Diann"
+  },
+  {
+    "_id": "123456789128",
+    "age": 24,
+    "price": 447,
+    "product": 365,
+    "name": "Diann"
+  },
+  {
+    "_id": "6375bc463cae49fd5ade4aec",
+    "age": 31,
+    "price": 130,
+    "product": 940,
+    "name": "Frankie"
+  },
+  {
+    "_id": "6375bc46530873797b322503",
+    "age": 21,
+    "price": 59,
+    "product": 380,
+    "name": "Daphne"
+  },
+  {
+    "_id": "6375bc46fab69a4f27b843c0",
+    "age": 35,
+    "price": 435,
+    "product": 614,
+    "name": "Gordon"
+  },
+  {
+    "_id": "6375bc4680763a9e75d1ec5e",
+    "age": 38,
+    "price": 603,
+    "product": 645,
+    "name": "Sims"
+  }
+]
