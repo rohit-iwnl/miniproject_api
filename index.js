@@ -1,15 +1,11 @@
 const express = require('express')
 const app = express()
-const posts=require('./posts')
+const posts=require('./products')
 
 let users=[];
 
-app.get('/posts',(req,res)=> {
+app.get('/products',(req,res)=> {
     res.json(posts)
-})
-app.post('/signup',(req,res)=> {
-    const user=req.body;
-    users.push(user)
 })
 
 app.get('/',(req,res)=>{
