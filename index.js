@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const posts=require('./products')
-const product1 = require('/123456789128')
+const product1 = require('./123456789128')
 
 let users=[];
 
